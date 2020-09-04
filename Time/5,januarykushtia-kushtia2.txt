@@ -1,0 +1,4 @@
+	Availabe Ac Tickets	Avaible Non-ac Tickets
+	2         		5
+	Price for Ac Tickets	Price for Non-ac Tickets
+	2            		5
